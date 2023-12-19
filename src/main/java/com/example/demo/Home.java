@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class Home {
     private String owner;
     public String getOwner() {
-        return owner;
+        return owner;xa,ncdanjdsanjcaj
     }
     public void setOwner(String owner) {
         this.owner = owner;
